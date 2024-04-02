@@ -11,6 +11,6 @@
   - Um valor inteiro de matiz m (0 <= m < 360).
   - Um valor inteiro x.
 
-## Funcionamento
+## ⚙️ Funcionamento
   Inicialmente, após ser carregada, a imagem de entrada estará representada no sistema RGB. A imagem é então convertida para o sistema HSV. Em seguida, a banda H, de matiz, é manipulada. Todas as matizes no intervalo [m - x, m + x] são substituídas por suas matizes inversas. Isto é, se a matiz q está no intervalo, ela é substituída pela matiz q + 180. Após as alterações serem realizadas, a imagem é retornada para o sistema RGB. Esta será a imagem de saída gerada pelo programa.
 
