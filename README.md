@@ -1,10 +1,10 @@
-# HSV_Color_Spectrum_Manipulation
+# 🌈 HSV_Color_Spectrum_Manipulation
   Este repositório contém um programa que realiza a alteração de uma faixa de valores de matizes (Hue) em uma imagem colorida, representada no sistema de cor HSV.
 
-## Objetivo
+## 🎯 Objetivo
   O objetivo deste projeto é implementar e testar um programa que recebe uma imagem colorida e realiza uma alteração em uma faixa de valores de matizes na imagem representada no sistema de cor HSV.
 
-## Parâmetros
+## 📝 Parâmetros
   O programa recebe os seguintes parâmetros:
 
   - Uma imagem de entrada colorida.
